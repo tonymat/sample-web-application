@@ -6,7 +6,7 @@ This is a sample Web Application to use during Continuous Integration demos
 ```
 mvn clean package  
 ```
-#Just commenting to run from jenm=kins
+#Just commenting to run from jenkins.
 # Deploy instruction
 
 Deploy ```target/WebApp.war``` on Tomcat
